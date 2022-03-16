@@ -8,7 +8,7 @@ PATH = "/usr/bin/chromedriver"
 
 driver = webdriver.Chrome(PATH)
 
-driver.get("http://bitcoin.works")
+driver.get("https://inlnk.ru/JjeKve")
 driver.maximize_window()
 time.sleep(2)
 
